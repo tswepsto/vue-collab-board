@@ -1,0 +1,16 @@
+body {
+	font-family: Helvetica
+}
+
+.tasklist {
+	padding-top: 2em;
+}
+
+.description {
+	font-weight: 100;
+	color: grey;
+}
+
+.trash, .pencil {
+	cursor: pointer;
+}
